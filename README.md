@@ -1,14 +1,14 @@
 # Riles MNL
 
-View the project: [https://comet.dlsu.edu.ph/riesgo-vis/](https://rilesmnl.vercel.app/)
+View the project: (https://rilesmnl.vercel.app/)
 
 Status: Work in progress
 
-An interactive web visualiation on Metro Manila's Mass Transit System
+An interactive web visualization on Metro Manila's Mass Transit System.
 
 Members:
 Ruz Mishael Valdez
-Michelle Le
+Michele Le
 Charles Diomampo
 
 Requirements
