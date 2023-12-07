@@ -7,9 +7,7 @@ Status: Work in progress
 An interactive web visualization on Metro Manila's Mass Transit System.
 
 Members:
-Ruz Mishael Valdez
-Michele Le
-Charles Diomampo
+Ruz Mishael Valdez, Michele Le, and Charles Diomampo
 
 Requirements
 Git
