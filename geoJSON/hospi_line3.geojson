@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "line": "MRT-3", "hospital": "Philippine Heart Center", "latitude": 14.6440237, "longitude": 121.0481304, "address": "Quezon City", "designation": "Public" }, "geometry": { "type": "Point", "coordinates": [ 121.0481304, 14.6440237 ] } },
+{ "type": "Feature", "properties": { "line": "MRT-3", "hospital": "East Avenue Medical Center", "latitude": 14.6421672, "longitude": 121.0478702, "address": "Quezon City", "designation": "Public" }, "geometry": { "type": "Point", "coordinates": [ 121.0478702, 14.6421672 ] } },
+{ "type": "Feature", "properties": { "line": "MRT-3", "hospital": "Philippine Children's Medical Center", "latitude": 14.6476963, "longitude": 121.0411248, "address": "Quezon City", "designation": "Public" }, "geometry": { "type": "Point", "coordinates": [ 121.0411248, 14.6476963 ] } },
+{ "type": "Feature", "properties": { "line": "MRT-3", "hospital": "Victoriano Luna Medical Center", "latitude": 14.6348398, "longitude": 121.0523867, "address": "Quezon City", "designation": "Public" }, "geometry": { "type": "Point", "coordinates": [ 121.0523867, 14.6348398 ] } },
+{ "type": "Feature", "properties": { "line": "MRT-3", "hospital": "The Medical City", "latitude": 14.5899178, "longitude": 121.0688896, "address": "Pasig", "designation": "Private" }, "geometry": { "type": "Point", "coordinates": [ 121.0688896, 14.5899178 ] } }
+]
+}

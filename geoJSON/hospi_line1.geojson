@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "line": "LRT-1", "hospital": "Philippine General Hospital", "latitude": 14.5777215, "longitude": 120.9856154, "address": "Manila", "designation": "Public" }, "geometry": { "type": "Point", "coordinates": [ 120.9856154, 14.5777215 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-1", "hospital": "Manila Doctors Hospital", "latitude": 14.5819484, "longitude": 120.9829913, "address": "Manila", "designation": "Private" }, "geometry": { "type": "Point", "coordinates": [ 120.9829913, 14.5819484 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-1", "hospital": "Adventist Medical Center Manila", "latitude": 14.5557941, "longitude": 120.9955069, "address": "Pasay", "designation": "Private" }, "geometry": { "type": "Point", "coordinates": [ 120.9955069, 14.5557941 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-1", "hospital": "ManilaMed", "latitude": 14.5825352, "longitude": 120.9856015, "address": "Manila", "designation": "Private" }, "geometry": { "type": "Point", "coordinates": [ 120.9856015, 14.5825352 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-1", "hospital": "Ospital ng Maynila Medical Center", "latitude": 14.5644279, "longitude": 120.9869911, "address": "Manila", "designation": "Public" }, "geometry": { "type": "Point", "coordinates": [ 120.9869911, 14.5644279 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-1", "hospital": "Dr. Jose Fabella Memorial Hospital", "latitude": 14.6062156, "longitude": 120.9842759, "address": "Manila", "designation": "Public" }, "geometry": { "type": "Point", "coordinates": [ 120.9842759, 14.6062156 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-1", "hospital": "University of Santo Tomas Hospital", "latitude": 14.6107432, "longitude": 120.9902641, "address": "Manila", "designation": "Private" }, "geometry": { "type": "Point", "coordinates": [ 120.9902641, 14.6107432 ] } }
+]
+}

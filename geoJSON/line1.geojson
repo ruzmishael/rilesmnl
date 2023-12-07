@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "StationName": "Baclaran Station", "latitude": 14.534187, "longitude": 120.998312, "monthly_ridership": 471632.8333, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 120.998312, 14.534187 ] } },
+{ "type": "Feature", "properties": { "StationName": "EDSA Station", "latitude": 14.539063, "longitude": 121.000687, "monthly_ridership": 802886.0, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 121.000687, 14.539063 ] } },
+{ "type": "Feature", "properties": { "StationName": "Libertad Station", "latitude": 14.547812, "longitude": 120.998563, "monthly_ridership": 190002.6667, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 120.998563, 14.547812 ] } },
+{ "type": "Feature", "properties": { "StationName": "Gil Puyat Station", "latitude": 14.554188, "longitude": 120.997187, "monthly_ridership": 517862.9167, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 120.997187, 14.554188 ] } },
+{ "type": "Feature", "properties": { "StationName": "Vito Cruz Station", "latitude": 14.563313, "longitude": 120.994812, "monthly_ridership": 170043.8333, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 120.994812, 14.563313 ] } },
+{ "type": "Feature", "properties": { "StationName": "Quirino Station", "latitude": 14.570313, "longitude": 120.991563, "monthly_ridership": 200874.0, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 120.991563, 14.570313 ] } },
+{ "type": "Feature", "properties": { "StationName": "Pedro Gil Station", "latitude": 14.576562, "longitude": 120.988062, "monthly_ridership": 380976.0833, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 120.988062, 14.576562 ] } },
+{ "type": "Feature", "properties": { "StationName": "United Nations Station", "latitude": 14.582562, "longitude": 120.984562, "monthly_ridership": 388684.4167, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 120.984562, 14.582562 ] } },
+{ "type": "Feature", "properties": { "StationName": "Central Station", "latitude": 14.592813, "longitude": 120.981687, "monthly_ridership": 232371.0, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 120.981687, 14.592813 ] } },
+{ "type": "Feature", "properties": { "StationName": "Carriedo Station", "latitude": 14.599063, "longitude": 120.981313, "monthly_ridership": 402474.8333, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 120.981313, 14.599063 ] } },
+{ "type": "Feature", "properties": { "StationName": "Doroteo Jose Station", "latitude": 14.605438, "longitude": 120.982062, "monthly_ridership": 457426.8333, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 120.982062, 14.605438 ] } },
+{ "type": "Feature", "properties": { "StationName": "Bambang Station", "latitude": 14.611187, "longitude": 120.982438, "monthly_ridership": 89422.91667000001, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 120.982438, 14.611187 ] } },
+{ "type": "Feature", "properties": { "StationName": "Tayuman Station", "latitude": 14.616688, "longitude": 120.982812, "monthly_ridership": 251621.3333, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 120.982812, 14.616688 ] } },
+{ "type": "Feature", "properties": { "StationName": "Blumentritt Station", "latitude": 14.622687, "longitude": 120.982938, "monthly_ridership": 226237.5, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 120.982938, 14.622687 ] } },
+{ "type": "Feature", "properties": { "StationName": "Abad Santos Station", "latitude": 14.630562, "longitude": 120.981437, "monthly_ridership": 119520.6667, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 120.981437, 14.630562 ] } },
+{ "type": "Feature", "properties": { "StationName": "R. Papa Station", "latitude": 14.636188, "longitude": 120.982313, "monthly_ridership": 92823.58333, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 120.982313, 14.636188 ] } },
+{ "type": "Feature", "properties": { "StationName": "5th Avenue Station", "latitude": 14.644438, "longitude": 120.983563, "monthly_ridership": 317790.0833, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 120.983563, 14.644438 ] } },
+{ "type": "Feature", "properties": { "StationName": "Monumento Station", "latitude": 14.654312, "longitude": 120.983937, "monthly_ridership": 851655.4167, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 120.983937, 14.654312 ] } },
+{ "type": "Feature", "properties": { "StationName": "Balintawak Station", "latitude": 14.657312, "longitude": 121.003187, "monthly_ridership": 356085.0, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 121.003187, 14.657312 ] } },
+{ "type": "Feature", "properties": { "StationName": "Roosevelt Station", "latitude": 14.657563, "longitude": 121.021062, "monthly_ridership": 17825.08333, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 121.021062, 14.657563 ] } }
+]
+}

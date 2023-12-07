@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "StationName": "Recto Station", "latitude": 14.603438, "longitude": 120.983563, "monthly_ridership": 635908.0, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 120.983563, 14.603438 ] } },
+{ "type": "Feature", "properties": { "StationName": "Legarda Station", "latitude": 14.600812, "longitude": 120.992563, "monthly_ridership": 126443.0833, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 120.992563, 14.600812 ] } },
+{ "type": "Feature", "properties": { "StationName": "Pureza Station", "latitude": 14.601688, "longitude": 121.005188, "monthly_ridership": 120333.25, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 121.005188, 14.601688 ] } },
+{ "type": "Feature", "properties": { "StationName": "V. Mapa Station", "latitude": 14.604062, "longitude": 121.017187, "monthly_ridership": 132967.5833, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 121.017187, 14.604062 ] } },
+{ "type": "Feature", "properties": { "StationName": "J. Ruiz Station", "latitude": 14.610563, "longitude": 121.026187, "monthly_ridership": 45235.41667, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 121.026187, 14.610563 ] } },
+{ "type": "Feature", "properties": { "StationName": "Gilmore Station", "latitude": 14.613563, "longitude": 121.034188, "monthly_ridership": 93909.58333, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 121.034188, 14.613563 ] } },
+{ "type": "Feature", "properties": { "StationName": "Betty Go-Belmonte Station", "latitude": 14.618562, "longitude": 121.042812, "monthly_ridership": 35121.16667, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 121.042812, 14.618562 ] } },
+{ "type": "Feature", "properties": { "StationName": "Araneta Center-Cubao Station", "latitude": 14.622687, "longitude": 121.052813, "monthly_ridership": 411699.9167, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 121.052813, 14.622687 ] } },
+{ "type": "Feature", "properties": { "StationName": "Anonas Station", "latitude": 14.627937, "longitude": 121.064688, "monthly_ridership": 135283.75, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 121.064688, 14.627937 ] } },
+{ "type": "Feature", "properties": { "StationName": "Katipunan Station", "latitude": 14.630813, "longitude": 121.072688, "monthly_ridership": 182503.9167, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 121.072688, 14.630813 ] } },
+{ "type": "Feature", "properties": { "StationName": "Santolan Station", "latitude": 14.622063, "longitude": 121.085938, "monthly_ridership": 99582.5, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 121.085938, 14.622063 ] } },
+{ "type": "Feature", "properties": { "StationName": "Marikina Station", "latitude": 14.620437, "longitude": 121.100313, "monthly_ridership": 248791.0, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 121.100313, 14.620437 ] } },
+{ "type": "Feature", "properties": { "StationName": "Antipolo Station", "latitude": 14.624813, "longitude": 121.121313, "monthly_ridership": 368725.5, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 121.121313, 14.624813 ] } }
+]
+}

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Riles MNL</title>
+    <style>
+
+        @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500&display=swap');
+
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background: url('703E7367-A835-4E0F-BC77-CA0426592E40.jpg') center/cover no-repeat;
+            color: #fff;
+            font-family: 'Rubik', sans-serif;
+        }
+
+        .content {
+            text-align: center;
+        }
+
+        h1, p {
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+            transition: all 0.3s ease;
+        }
+
+        h1 {
+            font-size: 5em;
+            margin-bottom: 0.5em;
+            font-weight: bolder;
+        }
+
+        p {
+            font-size: 2em;
+            margin-bottom: 1.5em;
+        }
+
+        .action-button {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 1.2em;
+            text-decoration: none;
+            background-color: #dd8500;
+            color: #fff;
+            border-radius: 5px;
+            animation: pulsate 1.5s infinite;
+            transition: background 0.3s ease, transform 0.3s ease;
+        }
+
+        .action-button:hover {
+            background-color: #ff9c36;
+            transform: scale(1.05);
+        }
+
+        @keyframes pulsate {
+            0% {
+                transform: scale(1);
+            }
+            50% {
+                transform: scale(1.1);
+            }
+            100% {
+                transform: scale(1);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>Welcome to Riles MNL!</h1>
+        <p>Join us as we uncover Metro Manila's Mass Rail Transit System!</p>
+        <a class="action-button" href="#" id="beginJourney">Begin journey</a>
+    </div>
+
+    <script>
+        document.getElementById("beginJourney").addEventListener("click", function(event) {
+            event.preventDefault();
+            document.body.style.opacity = 0;
+            setTimeout(function() {
+                window.location.href = "main.html";
+            }, 500);
+        });
+    </script>
+</body>
+</html>

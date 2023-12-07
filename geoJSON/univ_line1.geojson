@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "line": "LRT-1", "university": "De La Salle University", "latitude": 14.5647642, "longitude": 120.9931652, "address": "Manila" }, "geometry": { "type": "Point", "coordinates": [ 120.9931652, 14.5647642 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-1", "university": "De La Salle–College of Saint Benilde", "latitude": 14.5636358, "longitude": 120.9950657, "address": "Manila" }, "geometry": { "type": "Point", "coordinates": [ 120.9950657, 14.5636358 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-1", "university": "St. Scholastica's College Manila", "latitude": 14.5639654, "longitude": 120.996546, "address": "Manila" }, "geometry": { "type": "Point", "coordinates": [ 120.996546, 14.5639654 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-1", "university": "Arellano University, Pasay", "latitude": 14.5583888, "longitude": 120.9960115, "address": "Pasay" }, "geometry": { "type": "Point", "coordinates": [ 120.9960115, 14.5583888 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-1", "university": "Pamantasan ng Lungsod ng Maynila", "latitude": 14.58679, "longitude": 120.9761774, "address": "Manila" }, "geometry": { "type": "Point", "coordinates": [ 120.9761774, 14.58679 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-1", "university": "Mapúa University", "latitude": 14.5904883, "longitude": 120.9779484, "address": "Manila" }, "geometry": { "type": "Point", "coordinates": [ 120.9779484, 14.5904883 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-1", "university": "Adamson University", "latitude": 14.5874779, "longitude": 120.9856156, "address": "Manila" }, "geometry": { "type": "Point", "coordinates": [ 120.9856156, 14.5874779 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-1", "university": "St. Paul University Manila", "latitude": 14.5741867, "longitude": 120.986106, "address": "Manila" }, "geometry": { "type": "Point", "coordinates": [ 120.986106, 14.5741867 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-1", "university": "WCC Caloocan", "latitude": 14.656337, "longitude": 120.991441, "address": "Caloocan" }, "geometry": { "type": "Point", "coordinates": [ 120.991441, 14.656337 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-1", "university": "Philippine Women's University", "latitude": 14.5745214, "longitude": 120.9897923, "address": "Manila" }, "geometry": { "type": "Point", "coordinates": [ 120.9897923, 14.5745214 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-1", "university": "Manila Central University", "latitude": 14.6590004, "longitude": 120.9862475, "address": "Caloocan" }, "geometry": { "type": "Point", "coordinates": [ 120.9862475, 14.6590004 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-1", "university": "Lyceum of the Philippines University", "latitude": 14.5915772, "longitude": 120.9777733, "address": "Manila" }, "geometry": { "type": "Point", "coordinates": [ 120.9777733, 14.5915772 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-1", "university": "FEATI University", "latitude": 14.5972018, "longitude": 120.9818168, "address": "Manila" }, "geometry": { "type": "Point", "coordinates": [ 120.9818168, 14.5972018 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-1", "university": "Emilio Aguinaldo College", "latitude": 14.582867, "longitude": 120.9871053, "address": "Manila" }, "geometry": { "type": "Point", "coordinates": [ 120.9871053, 14.582867 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-1", "university": "Colegio de San Juan de Letran", "latitude": 14.5938186, "longitude": 120.9768631, "address": "Manila" }, "geometry": { "type": "Point", "coordinates": [ 120.9768631, 14.5938186 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-1", "university": "University of the Philippines Manila", "latitude": 14.5777477, "longitude": 120.9853666, "address": "Manila" }, "geometry": { "type": "Point", "coordinates": [ 120.9853666, 14.5777477 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-1", "university": "Technological University of the Philippines Manila (Main Campus)", "latitude": 14.587079, "longitude": 120.9844868, "address": "Manila" }, "geometry": { "type": "Point", "coordinates": [ 120.9844868, 14.587079 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-1", "university": "Philippine Normal University", "latitude": 14.5870935, "longitude": 120.982819, "address": "Manila" }, "geometry": { "type": "Point", "coordinates": [ 120.982819, 14.5870935 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-1", "university": "University of Santo Tomas", "latitude": 14.61, "longitude": 120.9893, "address": "Manila" }, "geometry": { "type": "Point", "coordinates": [ 120.9893, 14.61 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-1", "university": "Chinese General Hospital Colleges", "latitude": 14.625192, "longitude": 120.988138, "address": "Manila" }, "geometry": { "type": "Point", "coordinates": [ 120.988138, 14.625192 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-1", "university": "NU - MOA", "latitude": 14.5308113, "longitude": 120.9808798, "address": "Pasay" }, "geometry": { "type": "Point", "coordinates": [ 120.9808798, 14.5308113 ] } }
+]
+}

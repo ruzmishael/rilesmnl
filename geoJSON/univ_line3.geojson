@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "line": "MRT-3", "university": "Mandaluyong City College", "latitude": 14.5794443, "longitude": 121.0359174, "address": "Mandaluyong" }, "geometry": { "type": "Point", "coordinates": [ 121.0359174, 14.5794443 ] } },
+{ "type": "Feature", "properties": { "line": "MRT-3", "university": "University of Makati", "latitude": 14.5632518, "longitude": 121.0560726, "address": "Makati" }, "geometry": { "type": "Point", "coordinates": [ 121.0560726, 14.5632518 ] } },
+{ "type": "Feature", "properties": { "line": "MRT-3", "university": "Asian Institute of Management", "latitude": 14.552473, "longitude": 121.018728, "address": "Makati" }, "geometry": { "type": "Point", "coordinates": [ 121.018728, 14.552473 ] } },
+{ "type": "Feature", "properties": { "line": "MRT-3", "university": "Assumption College San Lorenzo", "latitude": 14.5468471, "longitude": 121.0218989, "address": "Makati" }, "geometry": { "type": "Point", "coordinates": [ 121.0218989, 14.5468471 ] } },
+{ "type": "Feature", "properties": { "line": "MRT-3", "university": "Enderun Colleges", "latitude": 14.5325601, "longitude": 121.0528236, "address": "Taguig" }, "geometry": { "type": "Point", "coordinates": [ 121.0528236, 14.5325601 ] } },
+{ "type": "Feature", "properties": { "line": "MRT-3", "university": "Manuel L. Quezon University", "latitude": 14.6356427, "longitude": 121.0437983, "address": "Quezon City" }, "geometry": { "type": "Point", "coordinates": [ 121.0437983, 14.6356427 ] } },
+{ "type": "Feature", "properties": { "line": "MRT-3", "university": "Mapúa University - Makati", "latitude": 14.5664614, "longitude": 121.0150212, "address": "Makati" }, "geometry": { "type": "Point", "coordinates": [ 121.0150212, 14.5664614 ] } },
+{ "type": "Feature", "properties": { "line": "MRT-3", "university": "Saint Pedro Poveda College", "latitude": 14.5901039, "longitude": 121.058413, "address": "Quezon City" }, "geometry": { "type": "Point", "coordinates": [ 121.058413, 14.5901039 ] } },
+{ "type": "Feature", "properties": { "line": "MRT-3", "university": "University of Asia and the Pacific", "latitude": 14.5803, "longitude": 121.0608, "address": "Pasig" }, "geometry": { "type": "Point", "coordinates": [ 121.0608, 14.5803 ] } }
+]
+}

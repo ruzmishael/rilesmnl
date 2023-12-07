@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "StationName": "North Avenue Station", "latitude": 14.652188, "longitude": 121.032313, "monthly_ridership": 716427.25, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 121.032313, 14.652188 ] } },
+{ "type": "Feature", "properties": { "StationName": "Quezon Avenue Station", "latitude": 14.642812, "longitude": 121.038562, "monthly_ridership": 318236.0833, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 121.038562, 14.642812 ] } },
+{ "type": "Feature", "properties": { "StationName": "GMA Kamuning Station", "latitude": 14.635188, "longitude": 121.043312, "monthly_ridership": 718841.5833000001, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 121.043312, 14.635188 ] } },
+{ "type": "Feature", "properties": { "StationName": "Araneta Center-Cubao Station", "latitude": 14.619438, "longitude": 121.051187, "monthly_ridership": 1050004.667, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 121.051187, 14.619438 ] } },
+{ "type": "Feature", "properties": { "StationName": "Santolan-Annapolis Station", "latitude": 14.607812, "longitude": 121.056438, "monthly_ridership": 151259.0833, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 121.056438, 14.607812 ] } },
+{ "type": "Feature", "properties": { "StationName": "Ortigas Avenue Station", "latitude": 14.587813, "longitude": 121.056687, "monthly_ridership": 562393.0, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 121.056687, 14.587813 ] } },
+{ "type": "Feature", "properties": { "StationName": "Shaw Boulevard Station", "latitude": 14.581188, "longitude": 121.053562, "monthly_ridership": 1051554.75, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 121.053562, 14.581188 ] } },
+{ "type": "Feature", "properties": { "StationName": "Boni Avenue Station", "latitude": 14.573812, "longitude": 121.048187, "monthly_ridership": 555756.6667, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 121.048187, 14.573812 ] } },
+{ "type": "Feature", "properties": { "StationName": "Guadalupe Station", "latitude": 14.567438, "longitude": 121.045687, "monthly_ridership": 687270.4167, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 121.045687, 14.567438 ] } },
+{ "type": "Feature", "properties": { "StationName": "Buendia Station", "latitude": 14.554562, "longitude": 121.034562, "monthly_ridership": 173365.5, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 121.034562, 14.554562 ] } },
+{ "type": "Feature", "properties": { "StationName": "Ayala Station", "latitude": 14.549188, "longitude": 121.027938, "monthly_ridership": 613657.25, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 121.027938, 14.549188 ] } },
+{ "type": "Feature", "properties": { "StationName": "Magallanes Station", "latitude": 14.542063, "longitude": 121.019437, "monthly_ridership": 507292.9167, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 121.019437, 14.542063 ] } },
+{ "type": "Feature", "properties": { "StationName": "Taft Avenue Station", "latitude": 14.537688, "longitude": 121.002188, "monthly_ridership": 1084960.667, "year": 2022 }, "geometry": { "type": "Point", "coordinates": [ 121.002188, 14.537688 ] } }
+]
+}

@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "line": "LRT-2", "university": "Polytechnic University of the Philippines Manila (Main Campus)", "latitude": 14.5979292, "longitude": 121.0107556, "address": "Maynila" }, "geometry": { "type": "Point", "coordinates": [ 121.0107556, 14.5979292 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-2", "university": "University of the Philippines Diliman", "latitude": 14.6538817, "longitude": 121.0685049, "address": "Quezon City" }, "geometry": { "type": "Point", "coordinates": [ 121.0685049, 14.6538817 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-2", "university": "Ateneo de Manila University", "latitude": 14.6398614, "longitude": 121.0784939, "address": "Quezon City" }, "geometry": { "type": "Point", "coordinates": [ 121.0784939, 14.6398614 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-2", "university": "Central Colleges of the Philippines", "latitude": 14.605926, "longitude": 121.0194646, "address": "Quezon City" }, "geometry": { "type": "Point", "coordinates": [ 121.0194646, 14.605926 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-2", "university": "Centro Escolar University", "latitude": 14.5988806, "longitude": 120.9917563, "address": "Manila" }, "geometry": { "type": "Point", "coordinates": [ 120.9917563, 14.5988806 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-2", "university": "College of the Holy Spirit Manila", "latitude": 14.597662, "longitude": 120.994534, "address": "Manila" }, "geometry": { "type": "Point", "coordinates": [ 120.994534, 14.597662 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-2", "university": "Far Eastern University", "latitude": 14.603738, "longitude": 120.9864748, "address": "Manila" }, "geometry": { "type": "Point", "coordinates": [ 120.9864748, 14.603738 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-2", "university": "Miriam College", "latitude": 14.6436198, "longitude": 121.0764594, "address": "Quezon City" }, "geometry": { "type": "Point", "coordinates": [ 121.0764594, 14.6436198 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-2", "university": "National Teachers College Manila", "latitude": 14.5980809, "longitude": 120.9892382, "address": "Manila" }, "geometry": { "type": "Point", "coordinates": [ 120.9892382, 14.5980809 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-2", "university": "San Beda University", "latitude": 14.5997811, "longitude": 120.992938, "address": "Manila" }, "geometry": { "type": "Point", "coordinates": [ 120.992938, 14.5997811 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-2", "university": "San Sebastian College – Recoletos de Manila", "latitude": 14.6007856, "longitude": 120.9898838, "address": "Manila" }, "geometry": { "type": "Point", "coordinates": [ 120.9898838, 14.6007856 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-2", "university": "Technological Institute of the Philippines - Manila", "latitude": 14.5953, "longitude": 120.988, "address": "Manila" }, "geometry": { "type": "Point", "coordinates": [ 120.988, 14.5953 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-2", "university": "University of Manila", "latitude": 14.6018, "longitude": 120.9915, "address": "Manila" }, "geometry": { "type": "Point", "coordinates": [ 120.9915, 14.6018 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-2", "university": "University of the East", "latitude": 14.6017, "longitude": 120.9889, "address": "Manila" }, "geometry": { "type": "Point", "coordinates": [ 120.9889, 14.6017 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-2", "university": "University of the East Ramon Magsaysay Memorial Medical Center", "latitude": 14.6071, "longitude": 121.0207, "address": "Manila" }, "geometry": { "type": "Point", "coordinates": [ 121.0207, 14.6071 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-2", "university": "Technological Institute of the Philippines - Quezon City", "latitude": 14.6258, "longitude": 121.0617, "address": "Quezon City" }, "geometry": { "type": "Point", "coordinates": [ 121.0617, 14.6258 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-2", "university": "St. Paul University Quezon City", "latitude": 14.6145399, "longitude": 121.0351226, "address": "Quezon City" }, "geometry": { "type": "Point", "coordinates": [ 121.0351226, 14.6145399 ] } },
+{ "type": "Feature", "properties": { "line": "LRT-2", "university": "Technological Institute of the Philippines - Mania", "latitude": 14.6018, "longitude": 120.9915, "address": "Quezon City" }, "geometry": { "type": "Point", "coordinates": [ 120.9915, 14.6018 ] } }
+]
+}

@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "line": "LRT-2", "hospital": "UERM Memorial Hospital", "latitude": 14.6071443, "longitude": 121.0207325, "address": "Quezon City", "designation": "Private" }, "geometry": { "type": "Point", "coordinates": [ 121.0207325, 14.6071443 ] } }
+]
+}
